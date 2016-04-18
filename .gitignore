@@ -1,0 +1,32 @@
+# IDE / Operating System files
+.settings/
+.settings/**
+/.project
+.classpath
+.project
+.DS_Store
+.java-version
+
+# Compiled files
+/target/
+
+# intellij
+.idea
+*.iml
+*.rxuser
+
+# front-end bower libs
+
+# node
+node_modules/
+node/
+npm-debug.log
+
+# ranorex
+*.rxlog
+*.rxlog.data
+*.jpg
+*.rxuser
+**/bin
+**/obj
+**/Reports

@@ -1,0 +1,64 @@
+body {
+    font-family: Lato, 'Helvetica Nueue', Helvetica, Arial, sans-serif;
+    color: #555459;
+}
+
+/* Remove gap b/w title & subtitle */
+.form-title {
+    margin-bottom: 0;
+}
+.form-subtitle {
+    margin-top: 0;
+}
+
+/* If invalid, highlight red */
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+
+/* Style disabled button */
+.ng-invalid .btn, .ng-invalid .btn:hover {
+    background: gray;
+    border-color: transparent;
+}
+.panel {
+    border: 1px solid lightgray;
+}
+.error {
+    color: red;
+    padding-bottom: 5px;
+}
+
+/* No underline */
+a:hover {
+    text-decoration: none;
+}
+
+.nav > li > a {
+    padding: 15px 5px;
+}
+
+@media only screen and (max-width: 768px) {
+    .nav > li > a {
+        padding: 10px;
+    }
+    #user-info .dropdown-toggle {
+        padding: 15px 5px;
+    }
+}
+
+/* Margin b/w dropdown and links */
+#user-info .dropdown-toggle {
+    color: #777;
+    margin-left: 15px;
+}
+
+/* Match dropdown focus/hover styles BS's defaults */
+.navbar-inverse #user-info .dropdown-toggle, .navbar-inverse #user-info .dropdown-toggle:focus, .navbar-inverse #user-info .dropdown-toggle:hover {
+    color: #fff;
+    background-color: transparent;
+}
+.navbar-default #user-info .dropdown-toggle, .navbar-default #user-info .dropdown-toggle:focus, .navbar-default #user-info .dropdown-toggle:hover {
+    color: #333;
+    background-color: transparent;
+}
