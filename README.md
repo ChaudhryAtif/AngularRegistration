@@ -9,6 +9,8 @@
 
 ## Demo
 * [**Click here**](http://chaudhryatif.github.io/AngularRegistration) for a live demo of the app
+   * Either create a dummy user (fake or real domain) - You will not receive any emails whatsoever!
+   * Or use '*demo@me.com*' and '*password*' for email and pass respectively
 
 ## Course Overview
 * Description:
