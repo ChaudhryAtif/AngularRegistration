@@ -13,7 +13,7 @@
    * Or use '*demo@me.com*' and '*password*' for email and pass respectively
 
 ## Course Overview
-* This is part one of a two-part series course. [**Click here**](http://chaudhryatif.github.io/AngularMeetings) to go to the second part.
+* This is part one of a two-part series course. [**Click here**](https://github.com/chaudhryatif/AngularMeetings) to go to the second part.
 
 * Description:
     <blockquote>
