@@ -13,6 +13,8 @@
    * Or use '*demo@me.com*' and '*password*' for email and pass respectively
 
 ## Course Overview
+* This is part one of a two-part series course. [**Click here**](http://chaudhryatif.github.io/AngularMeetings) to go to the second part.
+
 * Description:
     <blockquote>
       Authentication is a fundamental part of any web application, but it can be notoriously difficult to implement. In this short course, you'll create a simple registration system that allows users to log in and out of your applications. By taking advantage of Google's Firebase authentication service, you can manage registrations easily and securely. In the process, you'll explore working with the AngularJS application structure (including routes and controllers), storing user information into the Firebase NoSQL database, and creating services to manage registration information throughout different controllers. This will help you create a great registration template that you can use as a starting point in a variety of web applications.
